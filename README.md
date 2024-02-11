@@ -54,9 +54,7 @@ Step 2:
 
 Training: To train I had used different transfer learning models like resnet52,vgg19,vgg16,inception,exception,mobilenet,inceptionresnet, etc. I had done fine-tuning on different models to increase the accuracy. After I had done the ensembling of different model as every models have their own methods to extract the feature from images
 
-Step 3:
 
-Deployment: For deployment, I had used flask and Heroku
 
 ## Getting Started
 
