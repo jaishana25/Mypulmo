@@ -10,7 +10,7 @@
     Providing Fast , Accurate Lungs Diseases Detection System with Deep Neural Networ
     <br/>
     <br/>
-    <a href="https://github.com/ghadiyaaysh17601/MyPulmonologist"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/jaishana25/Mypulmo"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
    
